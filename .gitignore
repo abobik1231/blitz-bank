@@ -1,0 +1,13 @@
+node_modules/
+.next/
+next-env.d.ts
+AGENTS.md
+out/
+dist/
+old/
+.openai/
+.DS_Store
+*.tsbuildinfo
+
+/docs/.design-review/
+/docs/.site-section-audit.md
